@@ -1,0 +1,28 @@
+<resources>
+
+     <!--Base application theme.-->
+     <!--Light theme.-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="background_color">#fcfcfc</item>
+        <item name="text_color">#000000</item>
+        <item name="hint_color">#A9A9A9</item>
+        <item name="toggle_color">#696969</item>
+    </style>
+
+    <!-- Dark theme. -->
+    <style name="DarkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="background_color">#000000</item>
+        <item name="text_color">#ffffff</item>
+        <item name="hint_color">#e5e5e5</item>
+        <item name="toggle_color">#1ab630</item>
+    </style>
+
+</resources>
